@@ -35,7 +35,8 @@ It allows:
 
 ### App installation
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://github.com/kobym707/velo-app-package/blob/main/app-installation.png)
+
 ```mermaid
 sequenceDiagram
 Wix App Market ->>+ TPA (Velo Site): Signup
